@@ -209,9 +209,14 @@ body {
     font-size: 40px;
 }
 
-.contact .col-md-mail .fa-envelope {
+/* .contact .col-md-mail .fa-envelope {
     padding-top: 20px;
     padding-bottom: 19px;
+} */
+
+.contact .col-md-mail .fa-envelope {
+    padding-top: 50px;
+   
 }
 
 .contact .btn {
