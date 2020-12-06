@@ -209,8 +209,8 @@ body {
     font-size: 40px;
 }
 
-.contact .col-md-mail .fa .fa-envelope{
-    margin-top: 10px;
+.contact .col-md-mail .fa{
+    margin-bottom: 1000px;
     font-size: 40px;
 }
 
