@@ -204,20 +204,15 @@ body {
     font-size: 22px;
 }
 
-.contact .col-md-4 .fa{
+/* .contact .col-md-4 .fa{
     padding: 10px;
     font-size: 40px;
-}
+} */
 
 /* .contact .col-md-mail .fa-envelope {
     padding-top: 20px;
     padding-bottom: 19px;
 } */
-
-.contact .col-md-mail .fa-envelope {
-    padding-top: 10000px;
-   
-}
 
 .contact .btn {
     padding: 10px 25px 10px 25px;
