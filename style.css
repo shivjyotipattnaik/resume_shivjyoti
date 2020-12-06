@@ -327,3 +327,23 @@ body {
         color: #fff;
     }
 }
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {     #header {
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/ME3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+} 
+
+.contact {
+    padding-top: 50px;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/ME4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}}
